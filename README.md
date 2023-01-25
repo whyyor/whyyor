@@ -52,7 +52,7 @@
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=whyyor&show_icons=true&theme=onedark"
       />
  <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyor&layout=compact&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyor&layout=compact&bg_color=00000000"
       />
  </p>
 
