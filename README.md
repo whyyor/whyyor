@@ -49,7 +49,7 @@
  <p align="center">
     <img
         height="160em"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=whyyor&show_icons=true&theme=radical"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=whyyor&show_icons=true&theme=transparent"
       />
  </p>
 
