@@ -49,7 +49,7 @@
  <p align="center">
     <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyor&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=whyyor"
       />
  </p>
 
