@@ -21,7 +21,7 @@
 
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><h3>Github Stats 📈</h3>
+<div style="display:flex;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><h2>Github Stats 📈</h2></div>
  <p align="start">
     <img
          height="160em"
