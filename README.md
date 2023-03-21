@@ -1,8 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , it's Keshav here, nice to meet you !!! 😊
 
 
-## 💫 About Me:
-<h2><img src="https://media.giphy.com/media/mSq2Y8nouLVhQY720g/giphy.gif" width="40">  About Me:</h2>
+<h2><img src="https://media.giphy.com/media/mSq2Y8nouLVhQY720g/giphy.gif" width="40" top="40">  About Me:</h2>
 - 🎓 I am a final year undergraduate from Government Engineering College Bikaner studying Computer Science and Engineering
 - 💻 I use Javascript for Web Development and C++ for Competitive Programming
 - 🏀 I love to play basketball
