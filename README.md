@@ -11,7 +11,7 @@
 - 📚 In my free time, you can find me reading books or listening 🎧 music 
 
 
-## <img src="https://media.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy.gif" width="30"> Socials:
+## <img src="https://i.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy.webp" width="30"> Socials:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-khatri-50a1b7113)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/whyy0r) 
