@@ -29,15 +29,13 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  Github Stats:
 
- <p align="start">
-    <img
-         height="160e
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=whyyor&show_icons=true&theme=dark"
-      />
- <img 
-      height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyor&layout=compact&theme=dark"
-      />
- </p>
+
+<a href="https://github.com/whyyor/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyyor&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyor&layout=compact&theme=transparent" />
+</a>
 
 <h3 align="center">Thank You ❤️</h3>
+
