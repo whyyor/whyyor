@@ -31,7 +31,7 @@
 
 
 <a href="https://github.com/whyyor/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyyor&show_icons=true&theme=transparent" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyyor&show_icons=true&theme=transparent" width="400" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyor&layout=compact&theme=transparent" />
