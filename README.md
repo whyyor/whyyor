@@ -7,8 +7,7 @@
 - 🎓 I am a final year undergraduate from Government Engineering College Bikaner studying Computer Science and Engineering
 - 💻 I use Javascript for Web Development and C++ for Competitive Programming
 - 🏀 I love to play basketball
-- 🍿 Besides programming, I love to watch movies and series
-- 📚 In my free time, you can find me reading and learning about geopolitics
+- 📚 In my free time, you can find me listening to geopolitics and watching movies
 
 
 ## <img src="https://i.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy.webp" width="30"> Socials:
