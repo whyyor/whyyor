@@ -2,7 +2,7 @@
 
 ## <img src="./img/star.webp" width="30"> About Me:
 
-- 🎓 I am a software engineer as tvast.
+- 🎓 I am a vice president at wishtales.
 - 💻 I use Javascript for Web Development and C++ for Competitive Programming
 - 🏀 I love to play basketball
 - 📚 In my free time, you can find me listening to geopolitics and watching movies
