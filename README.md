@@ -4,7 +4,7 @@ Full-stack mobile engineer at [Wishtales AI](https://waitlist.wishtales.ai) — 
 
 I build cross-platform apps in Flutter, backend services in Node.js, and deploy on AWS/Azure. Currently building AI-powered video generation tools that went from idea to CES stage.
 
-**What I work with:** Flutter · React Native · Node.js · AWS · Azure · AI/ML integration
+**What I work with:** Flutter · Node.js · AWS · Azure · AI/ML integration
 
 **What I'm into:** System design, dev tooling, basketball 🏀
 
