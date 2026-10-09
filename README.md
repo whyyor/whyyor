@@ -6,7 +6,7 @@ I build cross-platform apps in Flutter, backend services in Node.js, and deploy 
 
 **What I work with:** Flutter · Node.js · AWS · Azure · AI/ML integration
 
-<img src="https://icon-marquee.giann.dev/v1/marquee?i=flutter,dart,nodejs,ts,js,express,aws,azure,firebase,docker,mongodb,postgres,cpp,lua,git,neovim,linux&width=800" alt="tech stack" />
+<img src="./img/stack.svg" alt="tech stack" />
 
 **What I'm into:** System design, dev tooling, basketball 🏀
 
