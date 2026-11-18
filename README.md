@@ -1,13 +1,15 @@
 # Keshav Khatri
 
-Full-stack mobile engineer at [Wishtales AI](https://waitlist.wishtales.ai) — Microsoft Startup of the Year, Top AI Startup at CES 2025.
+AI engineer building agents, mobile apps & dev tools. Bangalore, open to remote.
 
-I build cross-platform apps in Flutter, backend services in Node.js, and deploy on AWS/Azure. Currently building AI-powered video generation tools that went from idea to CES stage.
+**🤖 AI**: Build and deploy multi-agent systems at scale: orchestrator + parallel sub-agents, reliability, evals and multi-model routing in production at [Wishtales AI](https://waitlist.wishtales.ai).
 
-**What I work with:** Flutter · Node.js · AWS · Azure · AI/ML integration
+**📱 Mobile**: Supercut, a Flutter AI video editor where spoken or typed instructions become edits.
+
+**🛠 Dev tooling**: [tuimessenger](https://github.com/whyyor/tuimessenger), a terminal app for WhatsApp, Telegram, Slack & Instagram, plus an agent-facing API.
 
 <img src="./img/stack.svg" alt="tech stack" />
 
-**What I'm into:** System design, dev tooling, basketball 🏀
+**Recognition:** CES 2025 · Microsoft Startup Award 2025
 
 [LinkedIn](https://linkedin.com/in/keshav-khatri-50a1b7113) · [Twitter](https://twitter.com/whyyor) · [Dotfiles](https://github.com/whyyor/dotfiles)
